@@ -1,0 +1,7 @@
+{
+    "name": "idealoop/wp-hide-post",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
